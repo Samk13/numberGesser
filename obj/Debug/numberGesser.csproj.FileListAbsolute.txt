@@ -1,0 +1,7 @@
+C:\Users\osama\Documents\work\code\C\numberGesser\bin\Debug\numberGesser.exe.config
+C:\Users\osama\Documents\work\code\C\numberGesser\bin\Debug\numberGesser.exe
+C:\Users\osama\Documents\work\code\C\numberGesser\bin\Debug\numberGesser.pdb
+C:\Users\osama\Documents\work\code\C\numberGesser\obj\Debug\numberGesser.csprojAssemblyReference.cache
+C:\Users\osama\Documents\work\code\C\numberGesser\obj\Debug\numberGesser.csproj.CoreCompileInputs.cache
+C:\Users\osama\Documents\work\code\C\numberGesser\obj\Debug\numberGesser.exe
+C:\Users\osama\Documents\work\code\C\numberGesser\obj\Debug\numberGesser.pdb
